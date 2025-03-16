@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\vr chat avatars\\untiy projects\\rocket game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1148B758-0406-C86B-F512-2F2CEE95A25F}|Assembly-CSharp.csproj|E:\\vr chat avatars\\untiy projects\\rocket game\\assets\\scripts\\rocketcontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1148B758-0406-C86B-F512-2F2CEE95A25F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rocketcontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1148B758-0406-C86B-F512-2F2CEE95A25F}|Assembly-CSharp.csproj|E:\\vr chat avatars\\untiy projects\\rocket game\\assets\\scripts\\coinrotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1148B758-0406-C86B-F512-2F2CEE95A25F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coinrotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1148B758-0406-C86B-F512-2F2CEE95A25F}|Assembly-CSharp.csproj|e:\\vr chat avatars\\untiy projects\\rocket game\\assets\\scripts\\fuelrotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1148B758-0406-C86B-F512-2F2CEE95A25F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fuelrotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fuelRotate.cs",
+              "DocumentMoniker": "E:\\vr chat avatars\\untiy projects\\rocket game\\Assets\\scripts\\fuelRotate.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\fuelRotate.cs",
+              "ToolTip": "E:\\vr chat avatars\\untiy projects\\rocket game\\Assets\\scripts\\fuelRotate.cs",
+              "RelativeToolTip": "Assets\\scripts\\fuelRotate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:08:39.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "coinRotate.cs",
+              "DocumentMoniker": "E:\\vr chat avatars\\untiy projects\\rocket game\\Assets\\scripts\\coinRotate.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\coinRotate.cs",
+              "ToolTip": "E:\\vr chat avatars\\untiy projects\\rocket game\\Assets\\scripts\\coinRotate.cs",
+              "RelativeToolTip": "Assets\\scripts\\coinRotate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:57:41.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rocketControls.cs",
+              "DocumentMoniker": "E:\\vr chat avatars\\untiy projects\\rocket game\\Assets\\scripts\\rocketControls.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\rocketControls.cs",
+              "ToolTip": "E:\\vr chat avatars\\untiy projects\\rocket game\\Assets\\scripts\\rocketControls.cs",
+              "RelativeToolTip": "Assets\\scripts\\rocketControls.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAIwIwAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T20:13:42.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
